@@ -1,0 +1,142 @@
+[
+  {
+    "nome": "Alice Santos",
+    "idade": 28,
+    "cargo": "Analista de Marketing",
+    "departamento": "Marketing",
+    "salario": 4500.00,
+    "endereco": {
+      "rua": "Avenida das Palmeiras",
+      "numero": 567,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "98765-432"
+    }
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 35,
+    "cargo": "Gerente de Vendas",
+    "departamento": "Vendas",
+    "salario": 6500.00,
+    "endereco": {
+      "rua": "Rua dos Comerciantes",
+      "numero": 789,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "54321-876"
+    }
+  },
+  {
+    "nome": "Laura Mendes",
+    "idade": 32,
+    "cargo": "Desenvolvedor de Software",
+    "departamento": "Tecnologia da Informação",
+    "salario": 5500.00,
+    "endereco": {
+      "rua": "Rua das Tecnologias",
+      "numero": 123,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "12345-678"
+    }
+  },
+  {
+    "nome": "Marcos Silva",
+    "idade": 40,
+    "cargo": "Analista Financeiro",
+    "departamento": "Finanças",
+    "salario": 6000.00,
+    "endereco": {
+      "rua": "Avenida das Finanças",
+      "numero": 456,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "76543-210"
+    }
+  },
+  {
+    "nome": "Isabela Souza",
+    "idade": 29,
+    "cargo": "Designer Gráfico",
+    "departamento": "Design",
+    "salario": 4800.00,
+    "endereco": {
+      "rua": "Rua das Cores",
+      "numero": 789,
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "87654-321"
+    }
+  },
+  {
+    "nome": "Ricardo Lima",
+    "idade": 27,
+    "cargo": "Engenheiro de Software",
+    "departamento": "Tecnologia da Informação",
+    "salario": 6000.00,
+    "endereco": {
+      "rua": "Rua da Inovação",
+      "numero": 234,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "65432-109"
+    }
+  },
+  {
+    "nome": "Fernanda Santos",
+    "idade": 31,
+    "cargo": "Analista de Recursos Humanos",
+    "departamento": "Recursos Humanos",
+    "salario": 5000.00,
+    "endereco": {
+      "rua": "Avenida dos Talentos",
+      "numero": 678,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "98765-432"
+    }
+  },
+  {
+    "nome": "Gustavo Rocha",
+    "idade": 33,
+    "cargo": "Gerente de Operações",
+    "departamento": "Operações",
+    "salario": 7000.00,
+    "endereco": {
+      "rua": "Rua das Operações",
+      "numero": 890,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "32109-876"
+    }
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 26,
+    "cargo": "Analista de Qualidade",
+    "departamento": "Controle de Qualidade",
+    "salario": 5200.00,
+    "endereco": {
+      "rua": "Rua da Qualidade",
+      "numero": 567,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "65432-109"
+    }
+  },
+  {
+    "nome": "Rafael Mendonça",
+    "idade": 28,
+    "cargo": "Analista de Projetos",
+    "departamento": "Projetos",
+    "salario": 5700.00,
+    "endereco": {
+      "rua": "Avenida dos Projetos",
+      "numero": 123,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "87654-321"
+    }
+  }
+]

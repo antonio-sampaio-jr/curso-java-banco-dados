@@ -1,0 +1,14 @@
+{
+	"nome": "Alice Santos",
+	"idade": 28,
+	"cargo": "Analista de Marketing",
+	"departamento": "Marketing",
+	"salario": 4500.00,
+	"endereco": {
+		"rua": "Avenida das Palmeiras",
+		"numero": 567,
+		"cidade": "Rio de Janeiro",
+		"estado": "RJ",
+		"cep": "98765-432"
+	}
+}
